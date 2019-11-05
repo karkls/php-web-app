@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello World abuharis testing"
-
+echo "Hello World karkls testing";
+phpinfo();
 ?>
